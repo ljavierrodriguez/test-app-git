@@ -5,6 +5,7 @@ const Home = props => {
         <>
         <h1>Hola Mundo</h1>
         <h2>Hola React</h2>
+        <h3>Hola Flux</h3>
         </>
     )
 }
